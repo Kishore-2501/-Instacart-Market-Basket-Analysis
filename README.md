@@ -73,8 +73,8 @@ This project uses the [Instacart Market Basket Analysis dataset](https://www.ins
 ---
 
 ## Files uploaded
-- Feature_Engineering.ipynb # All Feature creation
-- Model.ipynb # Model training & evaluation
-- Final_Project.ipynb # Complete workflow
-- reorder_prediction_model.h5 # Trained model
-- README.md # Project overview (this file)
+- Feature_Engineering.ipynb (All Feature creation)
+- Model.ipynb (Model training & evaluation)
+- Final_Project.ipynb (Complete workflow)
+- reorder_prediction_model.h5 (Trained model)
+- README.md (Project overview)
